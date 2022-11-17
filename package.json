@@ -3,13 +3,35 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@popperjs/core": "^2.11.5",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "add": "^2.0.6",
+    "bootstrap": "^4.6.2",
+    "bootstrap-social": "^5.1.1",
+    "esm": "^3.2.25",
+    "font-awesome": "^4.7.0",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
+    "react-animation-components": "^3.0.0",
+    "react-bootstrap": "^2.0.2",
+    "react-bootstrap-validation": "^0.1.11",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "react-move": "^6.5.0",
+    "react-popper": "^2.3.0",
+    "react-redux": "^8.0.2",
+    "react-redux-form": "^1.16.8",
+    "react-scripts": "^5.0.1",
+    "react-transition-group": "^4.4.5",
+    "reactstrap": "^9.1.2",
+    "redux": "^4.2.0",
+    "redux-form": "^8.3.8",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +56,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "web-vitals": "^3.0.4"
   }
 }
