@@ -201,46 +201,6 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
-    },
-    {
-      "dishId": 1,
-      "rating": "3",
-      "author": "Praveen",
-      "comment": "this is test",
-      "date": "2022-10-24T05:59:07.653Z",
-      "id": 20
-    },
-    {
-      "dishId": 1,
-      "rating": "4",
-      "author": "kabilan",
-      "comment": "wow",
-      "date": "2022-10-24T06:13:58.644Z",
-      "id": 21
-    },
-    {
-      "dishId": 0,
-      "rating": "5",
-      "author": "kabilan",
-      "comment": "wwww",
-      "date": "2022-10-24T06:14:29.216Z",
-      "id": 22
-    },
-    {
-      "dishId": 0,
-      "rating": "2",
-      "author": "kabilan",
-      "comment": "wow\n",
-      "date": "2022-10-24T06:15:38.582Z",
-      "id": 23
-    },
-    {
-      "dishId": 0,
-      "rating": "3",
-      "author": "nigil",
-      "comment": "jjj",
-      "date": "2022-10-24T06:51:41.827Z",
-      "id": 24
     }
   ],
   "promotions": [
@@ -303,28 +263,6 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
-    },
-    {
-      "firstname": "praveen",
-      "lastname": "kumar",
-      "telnum": "9007893223",
-      "email": "pravinkabi6@gmail.com",
-      "agree": true,
-      "contactType": "",
-      "message": "",
-      "date": "2022-10-24T15:49:20.308Z",
-      "id": 2
-    },
-    {
-      "firstname": "praveen",
-      "lastname": "kumar",
-      "telnum": "9007893223",
-      "email": "t20e233@kce.ac.in",
-      "agree": true,
-      "contactType": "",
-      "message": "",
-      "date": "2022-10-24T15:49:39.473Z",
-      "id": 3
     }
   ]
 }
